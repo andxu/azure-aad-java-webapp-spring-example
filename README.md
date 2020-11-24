@@ -22,6 +22,7 @@ spring.security.oauth2.client.registration.azure.client-secret=xxxxxx-your-clien
 spring.security.oauth2.client.registration.azure.redirect-uri=https://${WEBSITE_HOSTNAME}/login/oauth2/code/{registrationId}
 
 azure.activedirectory.tenant-id=xxxxxx-your-tenant-id-xxxxxx
+```
 
 ### Run with Maven locally
 
